@@ -1,5 +1,5 @@
 import React from "react";
-import GetUserData from "./components/gettingUserData";
+import GetUserData from "./gettingUserData";
 
 function App() {
   return (
